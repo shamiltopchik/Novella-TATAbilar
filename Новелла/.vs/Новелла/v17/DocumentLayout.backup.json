@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shamiltopIT\\source\\repos\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\",
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\reprizitori\\Novella-TATAbilar\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|c:\\users\\shamiltopit\\source\\repos\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|solutionrelative:\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|c:\\users\\shamiltopit\\source\\repos\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|c:\\users\\student\\desktop\\reprizitori\\novella-tatabilar\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|solutionrelative:\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|c:\\users\\shamiltopit\\source\\repos\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\setings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|solutionrelative:\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\setings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|c:\\users\\shamiltopit\\source\\repos\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|solutionrelative:\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|C:\\Users\\student\\Desktop\\reprizitori\\Novella-TATAbilar\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7BD43AB-CEFE-4806-B0FC-9401E75BDEC3}|\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430.csproj|solutionrelative:\u043D\u043E\u0432\u0435\u043B\u043B\u0430\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Mainmenu.cs",
-              "DocumentMoniker": "C:\\Users\\shamiltopIT\\source\\repos\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\reprizitori\\Novella-TATAbilar\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs",
               "RelativeDocumentMoniker": "\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs",
-              "ToolTip": "C:\\Users\\shamiltopIT\\source\\repos\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs*",
+              "ToolTip": "C:\\Users\\student\\Desktop\\reprizitori\\Novella-TATAbilar\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs*",
               "RelativeToolTip": "\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T22:50:23.466Z",
               "IsPinned": true,
@@ -44,39 +36,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mainmenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\shamiltopIT\\source\\repos\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\reprizitori\\Novella-TATAbilar\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs",
               "RelativeDocumentMoniker": "\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs",
-              "ToolTip": "C:\\Users\\shamiltopIT\\source\\repos\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\student\\Desktop\\reprizitori\\Novella-TATAbilar\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "RelativeToolTip": "\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Mainmenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T22:34:24.473Z",
               "IsPinned": true,
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Play.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\shamiltopIT\\source\\repos\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Play.cs",
-              "RelativeDocumentMoniker": "\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Play.cs",
-              "ToolTip": "C:\\Users\\shamiltopIT\\source\\repos\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Play.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Play.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T20:06:14.528Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Setings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\shamiltopIT\\source\\repos\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Setings.cs",
-              "RelativeDocumentMoniker": "\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Setings.cs",
-              "ToolTip": "C:\\Users\\shamiltopIT\\source\\repos\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Setings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "\u041D\u043E\u0432\u0435\u043B\u043B\u0430\\Setings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T20:06:58.694Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
