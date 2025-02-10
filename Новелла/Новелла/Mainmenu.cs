@@ -18,14 +18,26 @@ namespace Новелла
             this.Size = new Size(1024, 728);
             Play.Size = new Size(120, 30);
             Setings.Size = new Size(120, 30);
+
             button1.Size = new Size(120, 30);
             button1.Location = new Point(900, 660);
+
             button2.Size = new Size(120, 30);
             button2.Location = new Point(900, 660);
+
+            button3.Size = new Size(120, 30);
+            button3.Location = new Point(900, 660);
+
+            button4.Size = new Size(120, 30);
+            button4.Location = new Point(900, 660);
+
             Play.Location = new Point(452, 364);
             Setings.Location = new Point(452, 410);
+
             button1.Visible = false;
             button2.Visible = false;
+            button3.Visible = false;
+            button4.Visible = false;
 
 
             text.Size = new Size(900, 50);
@@ -50,11 +62,11 @@ namespace Новелла
             text3.Text = "он спокойно встает и идет к двери";
             text3.Visible = false;
 
-            text4.AutoSize = true;
-            text4.Location = new Point(0, 620);
-            text4.Font = new Font("Times New Roman", 13, FontStyle.Regular);
-            text4.Text = "он спокойно встает и идет к двери";
-            text4.Visible = false;
+            //text4.AutoSize = true;
+            //text4.Location = new Point(0, 620);
+            //text4.Font = new Font("Times New Roman", 13, FontStyle.Regular);
+            //text4.Text = "он спокойно встает и идет к двери";
+            //text4.Visible = false;
         }
 
         public void Play_Click(object sender, EventArgs e)
@@ -81,6 +93,24 @@ namespace Новелла
             text2.Visible = false;
             this.BackgroundImage = Image.FromFile("C:\\Users\\student\\Desktop\\reprizitori\\Novella-TATAbilar\\Новелла\\Новелла\\fon3.png");
             text3.Visible = true;
+            button2.Visible = false;
+            button3.Visible = true;
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            text3.Text = "смотрит в глазок и видит...";
+            this.BackgroundImage = Image.FromFile("C:\\Users\\student\\Desktop\\reprizitori\\Novella-TATAbilar\\Новелла\\Новелла\\fon4.png");
+            button3.Visible = false;
+            button4.Visible = true;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            text3.Visible= false;
+            this.BackgroundImage = Image.FromFile("C:\\Users\\student\\Desktop\\reprizitori\\Novella-TATAbilar\\Новелла\\Новелла\\fon5.jpg");
+
         }
     }
 }

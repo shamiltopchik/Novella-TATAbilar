@@ -37,6 +37,8 @@
             text2 = new Label();
             text3 = new Label();
             text4 = new Label();
+            button3 = new Button();
+            button4 = new Button();
             SuspendLayout();
             // 
             // Play
@@ -115,6 +117,26 @@
             text4.Size = new Size(0, 15);
             text4.TabIndex = 6;
             // 
+            // button3
+            // 
+            button3.Location = new Point(713, 87);
+            button3.Name = "button3";
+            button3.Size = new Size(75, 23);
+            button3.TabIndex = 7;
+            button3.Text = "Дальше";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
+            // button4
+            // 
+            button4.Location = new Point(713, 120);
+            button4.Name = "button4";
+            button4.Size = new Size(75, 23);
+            button4.TabIndex = 8;
+            button4.Text = "Дальше";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // Mainmenu
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -122,6 +144,8 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 447);
+            Controls.Add(button4);
+            Controls.Add(button3);
             Controls.Add(text4);
             Controls.Add(text3);
             Controls.Add(text2);
@@ -148,5 +172,7 @@
         private Label text2;
         private Label text3;
         private Label text4;
+        private Button button3;
+        private Button button4;
     }
 }
